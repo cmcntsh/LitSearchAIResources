@@ -4,6 +4,7 @@
 
 * https://www.perplexity.ai/
 * https://www.researchrabbit.ai/
+* https://elicit.org/
 
 ## Literature Summary
 
