@@ -10,6 +10,7 @@
 * https://www.researchrabbit.ai/
 * https://elicit.org/
 * https://www.semanticscholar.org/
+* https://consensus.app/
 
 ## Literature Summary
 
