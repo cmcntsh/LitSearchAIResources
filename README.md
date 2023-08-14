@@ -3,6 +3,7 @@
 ## Literature Searches
 
 * https://www.perplexity.ai/
+* https://www.researchrabbit.ai/
 
 ## Literature Summary
 
