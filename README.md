@@ -5,6 +5,7 @@
 * https://www.perplexity.ai/
 * https://www.researchrabbit.ai/
 * https://elicit.org/
+* https://www.semanticscholar.org/
 
 ## Literature Summary
 
