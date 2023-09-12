@@ -9,6 +9,7 @@
 * https://www.perplexity.ai/
 * https://www.researchrabbit.ai/
 * https://elicit.org/
+  * Elicit Beta demo https://www.youtube.com/watch?v=0keldj3ZHEE
 * https://www.semanticscholar.org/
 * https://consensus.app/
 
