@@ -11,6 +11,7 @@
 * https://elicit.org/
   * Elicit Beta demo https://www.youtube.com/watch?v=0keldj3ZHEE
 * https://www.semanticscholar.org/
+  * Find Literature with AI using Semantic Scholar for Free (11 min) https://www.youtube.com/watch?v=01TqmHouKLw&t=54s
 * https://consensus.app/
 
 ## Literature Summary
