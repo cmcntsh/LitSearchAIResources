@@ -17,4 +17,5 @@
 ## Literature Summary
 
 * Scispace https://typeset.io/
+  * How to Find Scientific Literature Faster with SciSpace Literature Review Tool (14 min) https://www.youtube.com/watch?v=9AGZ5MvGVzg
 * https://www.chatpdf.com/
