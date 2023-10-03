@@ -13,11 +13,12 @@
   * This is another good place to ask a general research question. The sources provided link to articles in Semantic Scholar where you can see more related articles. Besides the sources cited in the “answer”, there is a list of other relevant papers below the answer.
   * Elicit.org for writing a literature review (16 min) https://www.youtube.com/watch?v=Oy2myE76ZfY&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=14
   * Elicit Beta demo https://www.youtube.com/watch?v=0keldj3ZHEE
+* https://consensus.app
+  * Consensus.app is another place where you can ask a general research question and get a list of relevant literature sources.
 * https://www.researchrabbit.ai/
   * A Total Beginners Guide to Research Rabbit (9 min) https://www.youtube.com/watch?v=7yTs-jZygE0&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=19
 * https://www.semanticscholar.org/
   * Find Literature with AI using Semantic Scholar for Free (11 min) https://www.youtube.com/watch?v=01TqmHouKLw&t=54s
-* https://consensus.app/
 
 ## Literature Summary
 
