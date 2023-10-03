@@ -24,4 +24,7 @@
 
 * Scispace https://typeset.io/
   * How to Find Scientific Literature Faster with SciSpace Literature Review Tool (14 min) https://www.youtube.com/watch?v=9AGZ5MvGVzg
+* Use Bing Chat in Edge Browser
+  * This tool can summarize articles and web pages that have been opened in the Edge browser.
+  * https://www.microsoft.com/en-us/edge/learning-center/how-to-use-bing-in-sidebar?form=MA13I2
 * https://www.chatpdf.com/
