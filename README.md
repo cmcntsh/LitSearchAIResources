@@ -7,6 +7,7 @@
 ## Literature Searches
 
 * https://www.perplexity.ai/
+  * This is similar to ChatGPT, except it provides sources for the answers. The source list appears above the answer. This is a good place to start by submitting a general question. Sources include both scholarly and popular literature. Scholarly literature is preferred for academic work, but when scholarly papers aren't available for your topic, popular sources are an acceptable backup.
   * How to Use AI to Learn Your Research Field with Perplexity AI (10 min) https://www.youtube.com/watch?v=miMR91GZGvE&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=42
 * https://www.researchrabbit.ai/
   * A Total Beginners Guide to Research Rabbit (9 min) https://www.youtube.com/watch?v=7yTs-jZygE0&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=19
