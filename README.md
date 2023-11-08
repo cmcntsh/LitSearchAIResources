@@ -20,6 +20,9 @@
   * A Total Beginners Guide to Research Rabbit (9 min) https://www.youtube.com/watch?v=7yTs-jZygE0&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=19
 * https://www.semanticscholar.org/
   * Find Literature with AI using Semantic Scholar for Free (11 min) https://www.youtube.com/watch?v=01TqmHouKLw&t=54s
+* https://www.sourcely.net/
+  * Sourcely may help you find sources for specific assertions in your paper.
+  * Use AI to find sources for your paper (8 min) https://www.youtube.com/watch?v=h4cNn0SY1YY
 
 ## Literature Summary
 
