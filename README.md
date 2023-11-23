@@ -18,6 +18,12 @@
 * https://www.researchrabbit.ai/
   * a.	Once you have some articles, you can put them in ResearchRabbit and you can see similar articles and articles cited by the article and other articles that have cited the article. This is a nice way to find other relevant articles and to see how an article fits in the body of research available on a topic.
   * A Total Beginners Guide to Research Rabbit (9 min) https://www.youtube.com/watch?v=7yTs-jZygE0&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=19
+* https://www.litmaps.com/
+  * This is another site that lets you see a research article in the context of articles it cites and more recent articles that cite your article.
+  * Some explanation of this site can be found at time index 2:35 in How to Write an Exceptional Literature Review (15 min) https://www.youtube.com/watch?v=wz8lg_3j3Ok
+* https://www.connectedpapers.com/
+  * This is another site that lets you see a research article in the context of articles it cites and more recent articles that cite your article.
+  * Some explanation of this site can be found at time index 6:05 in How to Write an Exceptional Literature Review (15 min) https://www.youtube.com/watch?v=wz8lg_3j3Ok
 * https://www.semanticscholar.org/
   * Find Literature with AI using Semantic Scholar for Free (11 min) https://www.youtube.com/watch?v=01TqmHouKLw&t=54s
 * https://www.sourcely.net/
@@ -36,3 +42,9 @@
   * https://techcrunch.com/2023/11/02/braves-leo-ai-assistant-is-now-available-to-desktop-users/
 * https://www.chatpdf.com/
   * Chat with a PDF document by dragging it to the web page.
+* https://docanalyzer.ai/
+  * This is a paid site to chat with multiple documents.
+ 
+## Article PDF
+
+* Try to access the pdf through the library first, but when all else fails, you can try https://sci-hub.se/
