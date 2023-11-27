@@ -44,6 +44,8 @@
   * Chat with a PDF document by dragging it to the web page.
 * https://docanalyzer.ai/
   * This is a paid site to chat with multiple documents.
+* https://www.unriddle.ai/
+  * Help understanding a research article by asking questions and getting explanations.
  
 ## Article PDF
 
