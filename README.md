@@ -15,7 +15,7 @@
   * Elicit Beta demo https://www.youtube.com/watch?v=0keldj3ZHEE
 * https://consensus.app
   * Consensus.app is another place where you can ask a general research question and get a list of relevant literature sources.
-* https://www.researchrabbit.ai/
+* https://researchrabbitapp.com/
   * a.	Once you have some articles, you can put them in ResearchRabbit and you can see similar articles and articles cited by the article and other articles that have cited the article. This is a nice way to find other relevant articles and to see how an article fits in the body of research available on a topic.
   * A Total Beginners Guide to Research Rabbit (9 min) https://www.youtube.com/watch?v=7yTs-jZygE0&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=19
 * https://www.litmaps.com/
