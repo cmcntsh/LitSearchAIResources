@@ -55,6 +55,6 @@
 
 1. Come up with a question.
 1. Search https://elicit.com/?workflow=table-of-papers
-  - Review the list of article titles
-  - Review abstract
+    - Review the list of article titles
+    - Review abstract
 1. Get article reference on https://www.semanticscholar.org/
