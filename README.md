@@ -50,3 +50,11 @@
 ## Article PDF
 
 * Try to access the pdf through the library first, but when all else fails, you can try https://sci-hub.se/
+
+## Workflows
+
+1. Come up with a question.
+2. Search https://elicit.com/?workflow=table-of-papers
+  3. Review the list of article titles
+  4. Review abstract
+5. Get article reference on https://www.semanticscholar.org/
