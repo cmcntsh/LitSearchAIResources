@@ -57,4 +57,6 @@
 1. Search https://elicit.com/?workflow=table-of-papers
     1. Review the list of article titles
     1. Review abstract
+    2. Copy DOI if available
 1. Get article reference on https://www.semanticscholar.org/
+2. Get more recent/related articles on 
