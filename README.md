@@ -7,7 +7,12 @@
 ## Help Finding Search Terms
 
 * https://bard.google.com/chat or https://chat.openai.com/
-  * Prompt: "I am doing a literature search on [your topic here] - I'd like some keywords that will help me find papers in Google Scholar [or other source]"
+
+Prompt: 
+
+```
+"I am doing a literature search on [your topic here] - I'd like some keywords that will help me find papers in Google Scholar [or other source]"
+```
 
 ## Literature Searches
 
