@@ -57,7 +57,7 @@ Prompt:
 * https://www.unriddle.ai/
   * Help understanding a research article by asking questions and getting explanations.
  
-## Article PDF
+## Find an Article PDF
 
 * Try to access the pdf through the library first, but when all else fails, you can try https://sci-hub.se/
 
