@@ -59,6 +59,7 @@ Prompt:
   * This is a paid site to chat with multiple documents.
 * https://www.unriddle.ai/
   * Help understanding a research article by asking questions and getting explanations.
+* https://claude.ai/chats
  
 ## Find an Article PDF
 
