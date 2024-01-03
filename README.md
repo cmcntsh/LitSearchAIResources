@@ -60,6 +60,7 @@ Prompt:
 * https://www.unriddle.ai/
   * Help understanding a research article by asking questions and getting explanations.
 * https://claude.ai/chats
+* https://copilot.microsoft.com/
  
 ## Find an Article PDF
 
