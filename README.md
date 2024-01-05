@@ -61,6 +61,7 @@ Prompt:
   * Help understanding a research article by asking questions and getting explanations.
 * https://claude.ai/chats
 * https://copilot.microsoft.com/
+* https://notebooklm.google/
  
 ## Find an Article PDF
 
