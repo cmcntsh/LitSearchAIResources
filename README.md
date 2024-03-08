@@ -64,6 +64,8 @@ Prompt:
 * https://claude.ai/chats
 * https://copilot.microsoft.com/
 * https://notebooklm.google/
+* https://www.wordtune.com/summarizer
+  * Free version seems better than many others
  
 ## Find an Article PDF
 
