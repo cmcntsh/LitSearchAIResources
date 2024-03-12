@@ -80,3 +80,4 @@ Prompt:
     2. Copy DOI if available
 1. Get article reference on https://www.semanticscholar.org/
 2. Create a literature map to get more recent/related articles on https://www.litmaps.com/
+3. Add relevant articles to citation manager like Zotero.
