@@ -32,6 +32,14 @@ Prompt:
   * Sourcely may help you find sources for specific assertions in your paper.
   * Use AI to find sources for your paper (8 min) https://www.youtube.com/watch?v=h4cNn0SY1YY
  
+### AI General Search Engines
+
+* https://www.perplexity.ai/
+  * This is similar to ChatGPT, except it provides sources for the answers. The source list appears above the answer. This is a good place to start by submitting a general question. Sources include both scholarly and popular literature. Scholarly literature is preferred for academic work, but when scholarly papers aren't available for your topic, popular sources are an acceptable backup.
+  * How to use Perplexity for research (14 min) https://www.youtube.com/watch?v=Ne-j_U2Vkfw
+  * How to Use AI to Learn Your Research Field with Perplexity AI (10 min) https://www.youtube.com/watch?v=miMR91GZGvE&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=42
+* (rumored) search.chatgpt.com
+
 ## Find Additional or Updated Articles from a Seed Article
 
 * https://researchrabbitapp.com/
