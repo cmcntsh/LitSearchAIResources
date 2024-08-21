@@ -27,6 +27,8 @@ Prompt:
 * https://www.sourcely.net/
   * Sourcely may help you find sources for specific assertions in your paper.
   * Use AI to find sources for your paper (8 min) https://www.youtube.com/watch?v=h4cNn0SY1YY
+* https://getliner.com/main
+  * Provides an AI-summarized answer to a question but includes a reference list.
  
 ### AI General Search Engines
 
