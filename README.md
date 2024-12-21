@@ -29,6 +29,8 @@ Prompt:
   * Use AI to find sources for your paper (8 min) https://www.youtube.com/watch?v=h4cNn0SY1YY
 * https://getliner.com/main
   * Provides an AI-summarized answer to a question but includes a reference list.
+* https://scite.ai/assistant
+* https://www.undermind.ai/query_app/query/
  
 ### AI General Search Engines
 
