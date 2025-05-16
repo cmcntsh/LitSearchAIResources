@@ -20,6 +20,7 @@ Prompt:
   * This is another good place to ask a general research question. The sources provided link to articles in Semantic Scholar where you can see more related articles. Besides the sources cited in the “answer”, there is a list of other relevant papers below the answer.
   * Elicit.org for writing a literature review (16 min) https://www.youtube.com/watch?v=Oy2myE76ZfY&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=14
   * Elicit Beta demo https://www.youtube.com/watch?v=0keldj3ZHEE
+  * More recent Elicit demo https://www.youtube.com/watch?v=Iqloiq3u9pA
 * https://consensus.app
   * Consensus.app is another place where you can ask a general research question and get a list of relevant literature sources.
 * https://www.semanticscholar.org/
