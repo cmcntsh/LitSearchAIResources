@@ -32,6 +32,8 @@ Prompt:
   * Provides an AI-summarized answer to a question but includes a reference list.
 * https://scite.ai/assistant
 * https://www.undermind.ai/query_app/query/
+* https://www.openevidence.com/
+  * Focused specifically on medical questions with agreements in place from medical publishers.
  
 ### AI General Search Engines
 
