@@ -92,3 +92,32 @@ Prompt:
 1. Get article reference on https://www.semanticscholar.org/
 2. Create a literature map to get more recent/related articles on https://www.litmaps.com/
 3. Add relevant articles to citation manager like Zotero.
+
+## Interesting Prompts
+
+Prompt: Academic Research Deep Dive (from SuperHuman Newsletter sent 10/29/2025 https://www.superhuman.ai/p/openai-completes-for-profit-transition?utm_source=superhuman&utm_medium=newsletter&utm_campaign=openai-completes-for-profit-transition&_bhlid=0e7b68c1137a6ce6b0ce791b8a9156ee02450ddb)
+
+```
+Prompt: I’m researching [specific topic or concept]. Please help me map the academic landscape around it by identifying and analyzing key works.
+
+Specifically:
+Identify foundational and influential academic or philosophical studies that:
+Explore [topic] directly
+Connect through related or underlying concepts
+Offer fresh, interdisciplinary, or unexpected perspectives
+For each major work, include:
+Its central argument or finding
+Why it matters to understand my topic
+Any distinctive methodology or theoretical lens used
+Its influence on later research or public thought
+
+Highlight:
+Surprising or novel links between disciplines
+New frameworks that shift how we think about the topic
+Contrarian or underexplored perspectives that challenge the mainstream view
+Lesser-known works that offer deep or original insights
+Summarize any major debates or contrasting schools of thought within the literature.
+
+Finally, recommend the best entry points for deeper exploration based on my particular interest in [specific aspect of the topic].
+
+```
