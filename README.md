@@ -43,6 +43,14 @@ Prompt:
   * How to Use AI to Learn Your Research Field with Perplexity AI (10 min) https://www.youtube.com/watch?v=miMR91GZGvE&list=PLG9A6ovzPqX4CrBpjATistTQ-5sbqmMy_&index=42
 * (rumored) search.chatgpt.com
 
+### Deep Research
+
+Deep research tools take longer to execute (sometimes several minutes) and require more computing resources. As a result, free tools limit the number of deep research searches by week or month.
+
+* Undermind https://app.undermind.ai/
+* Perplexity https://www.perplexity.ai/
+* ChatGPT 
+
 ## Find Additional or Updated Articles from a Seed Article
 
 * https://researchrabbitapp.com/
