@@ -31,7 +31,9 @@ Prompt:
 * https://getliner.com/main
   * Provides an AI-summarized answer to a question but includes a reference list.
 * https://scite.ai/assistant
+  * Tried on 11/06/2025. Site constantly tries to get you to sign up for the free trial and then move to paid tier after the free trial is over. Full response is not available if you don't sign up for the free trial. I was able to copy a list of 10 references that I could paste into an external document, but there was no analysis available without starting the free trial.
 * https://www.undermind.ai/query_app/query/
+  * Tried on 11/06/2025. The process wasn't exactly intuitive, but I answered the questions asked to refine the search. (It could be the prompt I tried wasn't very clear.) It took several minutes to run. There was some nice analysis about patterns and trends in the literature. Reference list could be exported as a CSV file.
 * https://www.openevidence.com/
   * Focused specifically on medical questions with agreements in place from medical publishers.
  
@@ -49,7 +51,8 @@ Deep research tools take longer to execute (sometimes several minutes) and requi
 
 * Undermind https://app.undermind.ai/
 * Perplexity https://www.perplexity.ai/
-* ChatGPT 
+* ChatGPT
+* Google Gemini deep research
 
 ## Find Additional or Updated Articles from a Seed Article
 
