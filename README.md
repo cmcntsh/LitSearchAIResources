@@ -28,7 +28,7 @@ Prompt:
 * https://www.sourcely.net/
   * Sourcely may help you find sources for specific assertions in your paper.
   * Use AI to find sources for your paper (8 min) https://www.youtube.com/watch?v=h4cNn0SY1YY
-* https://getliner.com/main
+* https://liner.com (old https://getliner.com/main)
   * Provides an AI-summarized answer to a question but includes a reference list.
 * https://scite.ai/assistant
   * Tried on 11/06/2025. Site constantly tries to get you to sign up for the free trial and then move to paid tier after the free trial is over. Full response is not available if you don't sign up for the free trial. I was able to copy a list of 10 references that I could paste into an external document, but there was no analysis available without starting the free trial.
